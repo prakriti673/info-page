@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+.review{
+    position: relative;
+    /* height: 600px; */
+    width: 400px;
+    /* background-color: aquamarine; */
+    background: rgb(17,48,122);
+    background: linear-gradient(82deg, rgba(17,48,122,1) 12%, rgba(62,68,224,1) 21%, rgba(27,200,203,1) 35%, rgba(13,56,129,1) 57%, rgba(23,14,101,1) 94%);
+    margin: 0px auto;
+    border-radius: 4%;
+    border: 4px solid black;
+}
+.container{
+    /* background-image: linear-gradient(45deg,#efefef 25%,rgba(239,239,239,0) 25%,rgba(239,239,239,0) 75%,#efefef 75%,#efefef),linear-gradient(45deg,#efefef 25%,rgba(239,239,239,0) 25%,rgba(239,239,239,0) 75%,#efefef 75%,#efefef); */
+    /* background-image: url("photos/871025.png"); */
+    width: 100%;
+}
+ .imgcontainer{
+    text-align: center;
+    width: 400px;
+}
+.imgcontainer img{
+    height: 130px;
+    width: 130px;
+    margin: 15px auto;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.info{
+    text-align: center;
+    margin: 0px;
+}
+#role{
+    margin: 0px;
+    padding-top: 5px;
+    font-family: 'Rye', cursive;
+    font-weight: 500;
+    font-stretch: wider;
+}
+#review{
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding:40px 50px 0px 50px;
+}
+#author{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Rye', cursive;
+}
+.button-container{
+    padding-top: 75px;
+    text-align: center;
+}
+.prevbtn{
+    margin: 7px;
+    border: 1px solid black;
+}
+.nextbtn{
+    border: 1px solid black;
+}
+
+.random{
+    padding: 10px;
+    text-align: center;
+}
+.randombtn{
+    border: 1px solid black;
+    border-radius: 7%;
+    color: rgb(17,48,122);
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    text-align: center;
+    font-size:110%;
+    margin: 0px;
+    padding: 0px 0px;
+}
+.title h2{
+    /* color: aquamarine; */
+    color: rgb(17,48,122);
+
+    /* color: #1a1f3d; */
+    margin: 0;
+    padding: 0;
+}
