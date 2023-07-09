@@ -2,9 +2,7 @@
 
 .review{
     position: relative;
-    /* height: 600px; */
     width: 400px;
-    /* background-color: aquamarine; */
     background: rgb(17,48,122);
     background: linear-gradient(82deg, rgba(17,48,122,1) 12%, rgba(62,68,224,1) 21%, rgba(27,200,203,1) 35%, rgba(13,56,129,1) 57%, rgba(23,14,101,1) 94%);
     margin: 0px auto;
@@ -12,8 +10,6 @@
     border: 4px solid black;
 }
 .container{
-    /* background-image: linear-gradient(45deg,#efefef 25%,rgba(239,239,239,0) 25%,rgba(239,239,239,0) 75%,#efefef 75%,#efefef),linear-gradient(45deg,#efefef 25%,rgba(239,239,239,0) 25%,rgba(239,239,239,0) 75%,#efefef 75%,#efefef); */
-    /* background-image: url("photos/871025.png"); */
     width: 100%;
 }
  .imgcontainer{
@@ -79,10 +75,7 @@
     padding: 0px 0px;
 }
 .title h2{
-    /* color: aquamarine; */
     color: rgb(17,48,122);
-
-    /* color: #1a1f3d; */
     margin: 0;
     padding: 0;
 }
